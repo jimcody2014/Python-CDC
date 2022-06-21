@@ -1,0 +1,41 @@
+https://raw.githubusercontent.com/jimcody2014/nlp_cdc/main/data/latuda.csv
+
+https://raw.githubusercontent.com/jimcody2014/nlp_cdc/main/data/radiation.txt
+
+
+https://data.cdc.gov/dataset/Electronic-Health-Information-Legal-Epidemiology-P/sesw-5ehn
+
+
+/Users/jimcody/Documents/2021Python/nlp/data
+
+
+
+
+Articles
+
+https://towardsdatascience.com/a-guide-to-text-classification-and-sentiment-analysis-2ab021796317
+
+https://towardsdatascience.com/understand-text-summarization-and-create-your-own-summarizer-in-python-b26a9f09fc70
+
+kaggle datasets download -d lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+http://norvig.com/spell-correct.html
+
+https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python
+
+
+
+
+from google.colab import drive
+drive.mount('/content/drive')
+
+latuda = pd.read_csv('https://raw.githubusercontent.com/jimcody2014/nlp_cdc/main/data/latuda.csv')
+
+
+Vectorization
+
+https://neptune.ai/blog/vectorization-techniques-in-nlp-guide
+https://towardsdatascience.com/nlp-in-python-vectorizing-a2b4fc1a339e
+https://towardsdatascience.com/understanding-nlp-word-embeddings-text-vectorization-1a23744f7223
+https://towardsdatascience.com/text-classification-in-python-dd95d264c802
+https://towardsdatascience.com/a-guide-to-text-classification-and-sentiment-analysis-2ab021796317

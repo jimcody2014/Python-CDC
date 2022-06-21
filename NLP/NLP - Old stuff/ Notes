@@ -1,0 +1,11 @@
+Sentiment Analysis
+
+Uses latuda data
+
+Sentiment Analysis using textblob polarity
+
+Logistic Regression - https://towardsdatascience.com/a-beginners-guide-to-sentiment-analysis-in-python-95e354ea84f6
+
+tensorflow.keras - /Python-Code/abr-text_classification_all_network-master/Text_classification__sentiment_analysis.ipynb
+    https://towardsdatascience.com/a-guide-to-text-classification-and-sentiment-analysis-2ab021796317
+
